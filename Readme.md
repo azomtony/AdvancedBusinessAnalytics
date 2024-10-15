@@ -25,4 +25,4 @@ If you want to run everything together-
 
 Sample Analytics:
 
-[Link to dashboard2.pdf](example_analytics/dashboard2.pdf)
+![Link to dashboard2.pdf](example_analytics/dashboard2.pdf)
